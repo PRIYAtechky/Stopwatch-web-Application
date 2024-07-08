@@ -10,7 +10,6 @@ This Stopwatch application provides a simple and elegant interface to track time
 2. **Lap Recording:** Record and display lap times with a dynamic lap list.
 3. **Responsive Design:** Adaptable layout for different screen sizes.
 4. **Stylish UI:** Utilizes custom fonts, colors, and animations for a modern look.
-5. **Real-Time Updates:** Displays time in hours, minutes, and seconds with real-time updates.
 
 ## Technologies Used
 
