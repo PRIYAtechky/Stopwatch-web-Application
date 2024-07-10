@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stopwatch</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="stopwatch-container">
+        <div class="circle">
+            <div id="display">00:00:00</div>
+        </div>
+        <div class="buttons">
+            <button id="start" title="Start"><i class="fas fa-play"></i></button>
+            <button id="pause" title="Pause"><i class="fas fa-pause"></i></button>
+            <button id="reset" title="Reset"><i class="fas fa-redo"></i></button>
+            <button id="lap" title="Lap"><i class="fas fa-flag"></i></button>
+        </div>
+        <div class="laps">
+            <h2>Laps</h2>
+            <ul id="laps-list"></ul>
+        </div>
+    </div>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
