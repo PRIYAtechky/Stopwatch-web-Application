@@ -27,4 +27,4 @@ stopwatch/
 
 ## Author
 
-Padmapriya Sravanaperumal
+Padmapriya Saravanaperumal
