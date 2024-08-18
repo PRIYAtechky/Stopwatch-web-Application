@@ -17,7 +17,7 @@ This **Stopwatch** application provides a simple and elegant interface to track 
 - **🎨 CSS:** For styling and layout.
 - **💻 JavaScript:** For stopwatch functionality and interactivity.
 
-## <div style="background-color:#e6f7ff; padding: 5px; border-radius: 5px;">🗂️ Project Structure</div>
+## <div style="background-color:red; padding: 5px; border-radius: 5px;">🗂️ Project Structure</div>
 
 ```plaintext
 stopwatch/
