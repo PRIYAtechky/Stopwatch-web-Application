@@ -5,7 +5,7 @@
 This **Stopwatch** application provides a simple and elegant interface to track time, featuring start, pause, reset, and lap functionalities. The application is designed with a responsive layout and a visually appealing design.
 
 
-<img align='center' src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-mbe-school-supplies-stopwatch-cartoon-cute-commercial-suppliesstopwatchcartoonlovelycommercially-available-png-image_4024768.jpg" width="230">
+<img align='center' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fstopwatch&psig=AOvVaw2UPuMM7sOQlQJjHVJ7HlNd&ust=1724939562447000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODlouXql4gDFQAAAAAdAAAAABBA" width="230">
 
 ## 🌟 Features
 
