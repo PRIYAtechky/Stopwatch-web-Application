@@ -1,11 +1,8 @@
 # ⏱️ Stopwatch
 
-## 🎯 Project Overview
+## 🎯 Project Overview <img src="https://cdn.dribbble.com/users/937082/screenshots/4671768/clock.gif"  width="60%" height="15%" >
 
 This **Stopwatch** application provides a simple and elegant interface to track time, featuring start, pause, reset, and lap functionalities. The application is designed with a responsive layout and a visually appealing design.
-
-<img src="https://media.istockphoto.com/id/904475088/vector/stopwatch-icon.jpg?s=612x612&w=0&k=20&c=SM0DKmmrYfJKdGoVrhXuk8cMlvlXpt5ExROqr-QEN4w=" width="230">
-
 
 ## 🌟 Features
 
