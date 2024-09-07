@@ -11,18 +11,15 @@ This **Stopwatch** application provides a simple and elegant interface to track 
 3. **📱 Responsive Design:** Adaptable layout for different screen sizes.
 4. **🎨 Stylish UI:** Utilizes custom fonts, colors, and animations for a modern look.
 
-## 🛠️ Technologies Used
+## ⚙️Technologies Used
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 - **📝 HTML:** For structuring the web page.
 - **🎨 CSS:** For styling and layout.
 - **💻 JavaScript:** For stopwatch functionality and interactivity.
 
-## ⚙️ Languages
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
 ## 🗂️ Project Structure
 
-```plaintext
 stopwatch/
 │
 ├── index.html
