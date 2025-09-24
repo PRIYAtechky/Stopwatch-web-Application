@@ -1,4 +1,4 @@
-# Stopwatch
+# STOPWATCH
 
 ## Project Overview <img src="https://cdn.dribbble.com/users/937082/screenshots/4671768/clock.gif"  width="60%" height="15%" >
 
@@ -44,5 +44,6 @@ stopwatch/
 ├── index.html
 ├── styles.css
 └── script.js
+
 
 
